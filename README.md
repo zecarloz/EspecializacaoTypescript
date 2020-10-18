@@ -1,2 +1,1 @@
-# EspecializacaoTypescript
-Treinamento em Typescript
+# trabalhosComTypescript
