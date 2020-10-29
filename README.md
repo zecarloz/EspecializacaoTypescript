@@ -1,1 +1,1 @@
-# trabalhosComTypescript
+# trabalhosComTypescript a linguagem forte da web
