@@ -1,2 +1,2 @@
 # trabalhosComTypescript a linguagem forte da web
-## Usaremos exemplos para inlustrar o intelisense e tipagem forte da linguagem.
+## Usaremos exemplos para inlustrar o intelliSense e tipagem forte da linguagem.
